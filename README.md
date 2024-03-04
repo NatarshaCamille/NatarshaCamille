@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @NatarshaCamille
+👋 Hi, what's up!!!!!
+
+ My name is Camille and I'm from Kampala - Uganda
+
+
 - 👀 I’m interested in Python, CyberSec
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ....
