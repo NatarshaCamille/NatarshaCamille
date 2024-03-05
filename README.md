@@ -4,10 +4,15 @@
 
 
 👀 I’m interested in Python, CyberSec
-🌱 I’m currently learning German and webtree
+
+🌱 I’m currently learning German and Webtree
+
 💞️ I’m looking to collaborate on ....
+
 📫 How to reach me ...
+
 😄 Pronouns: She/her
+
 ⚡ Fun fact: ...
 
 <!---
