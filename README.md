@@ -15,6 +15,8 @@
 
 ⚡ Fun fact: ...
 
+I code with
+Javascript | React | Nextjs | 
 
 <!---
 NatarshaCamille/NatarshaCamille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
