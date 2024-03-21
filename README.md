@@ -9,7 +9,9 @@
 
 💞️ I’m looking to collaborate on ....
 
-📫 How to reach me ...
+📫 How to reach me 
+
+www.linkedin.com/in/natasha-nalubega-1a4b44137
 
 😄 Pronouns: She/her
 
