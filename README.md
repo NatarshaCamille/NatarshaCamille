@@ -15,7 +15,7 @@ www.linkedin.com/in/natasha-nalubega-1a4b44137
 
 😄 Pronouns: She/her
 
-⚡ Fun fact: ...
+⚡ Fun fact: Change inevitable.
 
 I code with
 Javascript | React | Nextjs | Typescript | Oracle | MySQL | 
