@@ -1,7 +1,6 @@
-👋 Hi, what's up!!!!!
+👋 Hi, what's up!!
 
- My name is Natasha Camille and I'm from Kampala - Uganda
-
+ My name is Natasha Camille and I'm from Kampala
 
 👀 I’m interested in Python, CyberSec
 
