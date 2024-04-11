@@ -7,7 +7,7 @@
 🌱 I’m currently learning German and Blockchain 
 
 💞️ I’m looking to collaborate on ....
-
+group projects 
 📫 How to reach me 
 
 www.linkedin.com/in/natasha-nalubega-1a4b44137
