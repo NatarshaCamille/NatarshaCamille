@@ -12,7 +12,7 @@ group projects
 
 www.linkedin.com/in/natasha-nalubega-1a4b44137
 
-😄 Pronouns: She
+😄 Pronouns: She /her
 
 ⚡ Fun fact: Change is inevitable....
 
