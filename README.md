@@ -1,4 +1,4 @@
-👋 Hi, what's up!!
+👋 Hi!
 
  My name is Natasha Camille and I am from Kampala
 
