@@ -4,7 +4,7 @@
 
 👀 I’m interested in Python, CyberSec
 
-🌱 I’m currently learning German and AWS / Web3 /
+🌱 I’m currently learning German and AWS / Web3 
 
 💞️ I’m looking to collaborate on ....
 group projects 
