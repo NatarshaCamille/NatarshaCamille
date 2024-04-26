@@ -2,7 +2,7 @@
 
  My name is Natasha Camille and I am from Kampala
 
-👀 I’m interested in Python, CyberSec
+👀 I’m interested in Web3 
 
 🌱 I’m currently learning German and AWS / Web3 
 
