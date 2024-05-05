@@ -17,7 +17,7 @@ www.linkedin.com/in/natasha-nalubega-1a4b44137
 ⚡ Fun fact: Change is inevitable....
 
 I code with
-Javascript | React | Nextjs | Typescript | Oracle | MySQL | React 
+Javascript | React | Nextjs | Typescript | Oracle | MySQL | React | 
 
 <!---
 NatarshaCamille/NatarshaCamille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
